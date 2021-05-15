@@ -2,6 +2,10 @@
 
 DeePromClass is a deep learning based promoter finding tool developed for 5 different organisms namely c-elegans, homo-sapiens, drosophila-melanogaster, mus-musculus, yeast.
 
+What's new:-
+Outputs the list of the promoters into a separate file along with indexes of each of the found possible promoter.
+These promoters are also classified using regular expressions of the known promoters.
+
 IMPORTANT:-
 
 1.)Prior to running the file with the name "Promoter_Finder_and_classifier.ipynb" install the required files listed in the requirements.tx file using the command "pip install -r requirements.txt".
